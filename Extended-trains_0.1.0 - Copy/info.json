@@ -1,0 +1,11 @@
+{
+    "name": "Extended-trains",
+    "version": "0.1.0",
+    "title": "Extended trains",
+    "author": "CTA",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.15",
+    "dependencies": ["base", "? wormmus-config"],
+    "description": "Adds more train wagon and fuel tiers"
+}
